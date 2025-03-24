@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\New Learnings\\SampleAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|d:\\new learnings\\sampleapi\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|d:\\new learnings\\sampleapi\\sampleapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|d:\\new learnings\\sampleapi\\sampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|d:\\new learnings\\sampleapi\\sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|d:\\new learnings\\sampleapi\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|d:\\new learnings\\sampleapi\\sampleapi\\sampleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\sampleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C2E3063-C407-4A76-84A0-EC8BC8D8258F}|SampleAPI\\SampleAPI.csproj|d:\\new learnings\\sampleapi\\sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New Learnings\\SampleAPI\\SampleAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SampleAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\New Learnings\\SampleAPI\\SampleAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SampleAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T05:03:00.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleAPI.http",
+              "DocumentMoniker": "D:\\New Learnings\\SampleAPI\\SampleAPI\\SampleAPI.http",
+              "RelativeDocumentMoniker": "SampleAPI\\SampleAPI.http",
+              "ToolTip": "D:\\New Learnings\\SampleAPI\\SampleAPI\\SampleAPI.http",
+              "RelativeToolTip": "SampleAPI\\SampleAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-14T05:02:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\New Learnings\\SampleAPI\\SampleAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\New Learnings\\SampleAPI\\SampleAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "SampleAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:02:30.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\New Learnings\\SampleAPI\\SampleAPI\\appsettings.json",
               "RelativeDocumentMoniker": "SampleAPI\\appsettings.json",
@@ -38,12 +89,21 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New Learnings\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
+              "ToolTip": "D:\\New Learnings\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "SampleAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:38:23.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\New Learnings\\SampleAPI\\SampleAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "SampleAPI\\Controllers\\WeatherForecastController.cs",
@@ -51,21 +111,11 @@
               "RelativeToolTip": "SampleAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:38:40.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T14:38:40.114Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New Learnings\\SampleAPI\\SampleAPI\\Program.cs",
-              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
-              "ToolTip": "D:\\New Learnings\\SampleAPI\\SampleAPI\\Program.cs*",
-              "RelativeToolTip": "SampleAPI\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:38:23.628Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

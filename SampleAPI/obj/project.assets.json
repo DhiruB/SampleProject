@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New Learnings\\SampleAPI\\SampleAPI\\SampleAPI.csproj",
+      "projectUniqueName": "D:\\New Learnings\\SampleAPI\\SampleProject\\SampleAPI\\SampleAPI.csproj",
       "projectName": "SampleAPI",
-      "projectPath": "D:\\New Learnings\\SampleAPI\\SampleAPI\\SampleAPI.csproj",
+      "projectPath": "D:\\New Learnings\\SampleAPI\\SampleProject\\SampleAPI\\SampleAPI.csproj",
       "packagesPath": "C:\\Users\\DHIRAJ\\.nuget\\packages\\",
-      "outputPath": "D:\\New Learnings\\SampleAPI\\SampleAPI\\obj\\",
+      "outputPath": "D:\\New Learnings\\SampleAPI\\SampleProject\\SampleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
